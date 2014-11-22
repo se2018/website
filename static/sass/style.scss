@@ -1,0 +1,14 @@
+@import "reset";
+@import "lib/bootstrap";
+
+body {
+  background-color: #000;
+  height: 100%;
+  width: 100%;
+  .header {
+    display: block;
+    img {
+      width: 100%;
+    }
+  }
+}

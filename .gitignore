@@ -63,3 +63,11 @@ Session.vim
 
 # virtual env
 venv/
+
+#Sass stuff
+.sass-cache
+*.css.map
+
+.DS_Store
+*/.DS_Store
+se2018group/UW Software Engineering Class of 2018 (SE++)_files/
